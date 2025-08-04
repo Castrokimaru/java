@@ -35,3 +35,7 @@ for (let fruit of fruits) {
     console.log(fruit);
   }
   
+  for (let i = 1; i <= 5; i++) {
+    console.log("Hello");
+  }
+  
